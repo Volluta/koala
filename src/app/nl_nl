@@ -1,0 +1,105 @@
+// language pack of context
+{
+	// folder context item
+	"Open Folder": "Open Folder",
+	
+	"Rename": "Hernoem",
+	
+	"Reload": "Herladen",
+	
+	"Delete": "Verwijderen",
+	
+	"Are sure delete this folder?": "Weet u zeker dat u dit wilt verwijderen?",
+	
+	"Project Settings": "Instellingen Project",
+	
+	"New Settings": "Nieuwe Instellingen",
+	
+	"Edit Settings": "Instellingen Aanpassen",
+
+	"Default": "Standaard",
+
+	"For LESS": "Voor LESS",
+
+	"For Sass": "Voor Sass",
+
+	"For Compass": "Voor Compass",
+
+	"For CoffeeScript": "Voor CoffeeScript",
+
+	// file context item
+	"Open File": "Open Bestand",
+	
+	"Open Containing Folder": "Bestaande map openen",
+	
+	"Open Output Folder": "Open Output Folder",
+	
+	"Set Output Path": "Output Pad Instellen",
+	
+	"Compile": "Compileren",
+	
+	"Batch Compile": "Groep Compileren",
+	
+	"Remove": "Verwijderen",
+
+	"Toggle Auto Compile": "Compileer Auto Pin",
+	
+	// tray context item
+	"Open": "Open",
+	
+	"Settings": "Instellingen",
+	
+	"Exit": "Afsluiten",
+	
+	// tips
+	"compiling...": "Samenstellen...",
+	
+	"New Version Found": "Nieuwe Versie Beschikbaar",
+	
+	"Some Compile errors, please see the compile log": "Bij compileerfouten, zie het compileerlogboek",
+	
+	"x new file": "${1} Nieuw Bestand",
+	
+	"Network requests failed, please try again": "Internetconnectie-fout, probeer opnieuw.",
+	
+	"koala-config.json not found, please create it first.": "koala-config.json niet gevonden, maak a.u.b. deze aan.",
+	
+	"Settings file was created in the project directory. Do you want to edit it now?": "${1} Settings File gemaakt in project directory. Wilt u deze bewerken?",
+	
+	"Settings file has already exists. Do you want to edit it?": "${1} Settings File bestaat al. Wilt u deze bewerken?",
+
+	"Please select a folder.": "Selecteer een folder.",
+	
+	"This folder has been added, whether you want to add it as a new project?": "Deze folder is toegevoegd, wilt u deze als nieuw project bestempelen",
+	
+	"Installing the language pack...": "Installeer het taalpakket.",
+
+	"Install the language pack failed:": "Installatie taalpakket mislukt.",
+
+	"Not found the package.json file.": "Pakket niet gevonden",
+
+	"Language pack is not complete.": "Taalpakket is niet compleet",
+
+	"Package.json is not complete.": "Package.json is niet compleet",
+
+	"Language pack is installed successfully.": "${1} Taalpakket is succesvol geinstalleerd.",
+
+	"language pack update notification": "Taalpakket update notificatie.",
+
+	"Downloading the new language pack...": "Downloaden van nieuw taalpakket...",
+
+	"Language pack auto download failed, try download it manually.": "Taalpakket auto download mislukt, probeer het handmatig.",
+
+	"Installing the compiler...": "Installeren van compiler...",
+	
+	"The compiler install failed:": "Installatie van compiler mislukt.",
+
+	"Package is not complete": "Pakket is niet compleet",
+
+	"Compiler pack is installed successfully.": "Compilatiepakket is succesvol geinstalleerd.",
+
+	"compiler pack update notification": "Compiler pakket update notificatie",
+
+	"Do you want to uninstall this extension?": "Wilt u deze extensie verwijderen?"
+
+}
